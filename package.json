@@ -1,0 +1,22 @@
+{
+  "name": "somnia-tradebot",
+  "version": "1.0.0",
+  "description": "Real-time cryptocurrency transaction monitor for Somnia blockchain",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "somnia",
+    "blockchain",
+    "cryptocurrency",
+    "trading",
+    "bot"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
